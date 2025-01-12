@@ -1,4 +1,3 @@
-## Hi there 👋
 
 👋 Hi, I'm Mohamed Haredy, a passionate software developer with expertise in building modern web applications using ASP.NET Core, Blazor, Angular, and .NET technologies.
 
@@ -22,3 +21,7 @@
 - Database optimization techniques
 
 ⚡ Fun fact: I enjoy learning about AI and exploring open-source projects.
+
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
